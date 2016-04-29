@@ -20,7 +20,7 @@ grunt.loadNpmTasks('grunt-connect-proxy');
                     {  
                         context: '/sap/opu/odata',  
                         host: 'SAPES4.SAPDEVCENTER.COM',  
-                        port: 's',  
+                        port: '',  
                         https: false  
                     }  
                 ]  
